@@ -1,0 +1,8 @@
+Folder PATH listing
+Volume serial number is AA7B-E934
+C:.
+├───harjoitustyo
+│   └───laskarit
+│       └───viikko1
+└───testi
+    └───stuff

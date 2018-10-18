@@ -1,0 +1,8 @@
+commit 63d2b960ea9496c788b15f0eeddf42d4ff1925c5
+Author: Jarmo Kuusisto <jarmokuu@gmail.com>
+Date:   Thu Oct 18 18:06:14 2018 +0300
+
+    initial commit
+
+ README.md | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
